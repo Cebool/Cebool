@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cebool
 - 👀 I’m interested in sports, mostly football and  volleyball, and history.
 - 🌱 I’m currently learning Python and C#.
-- 💞️ I’m looking to collaborate on all the possible projects for beginning programmers.
+- 💞️ I’m looking to collaborate on all possible projects for beginning programmers.
 - 📫 How to reach me: cebulaa.piotr@gmail.com
 
 <!---
